@@ -1,4 +1,4 @@
-package com.tay.dynamicds;
+package com.liuzm.paascloud.dynamicds;
 
 public class OrgCodeHolder {
 	static final ThreadLocal<String> holder = new ThreadLocal<String>();

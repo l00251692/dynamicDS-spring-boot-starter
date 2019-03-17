@@ -1,4 +1,4 @@
-package com.tay.dynamicds;
+package com.liuzm.paascloud.dynamicds;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;

@@ -1,4 +1,4 @@
-package com.tay.dynamicds;
+package com.liuzm.paascloud.dynamicds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

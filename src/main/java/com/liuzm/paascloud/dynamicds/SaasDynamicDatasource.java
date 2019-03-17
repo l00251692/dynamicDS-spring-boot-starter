@@ -1,4 +1,4 @@
-package com.tay.dynamicds;
+package com.liuzm.paascloud.dynamicds;
 
 import java.sql.Connection;
 import java.sql.SQLException;
